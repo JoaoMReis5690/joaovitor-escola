@@ -8,6 +8,7 @@
         }
         body{
             background-color: lightblue;
+            background-image: url("https://www.thevaticantickets.com/vatican-city/");
         }
     </style>
     <body>
